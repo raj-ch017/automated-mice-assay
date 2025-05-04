@@ -18,4 +18,4 @@ This folder contains Python scripts used for backing up, processing, and analyzi
 
 ---
 
-For questions or contributions, please contact [your name/contact info].
+For questions or contributions, feel free to contact me @`rajdeep.ch138@gmail.com`.
