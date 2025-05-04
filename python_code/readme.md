@@ -14,7 +14,6 @@ This folder contains Python scripts used for backing up, processing, and analyzi
 
 - These scripts are designed to work together as part of the assay data workflow.
 - Ensure necessary Python libraries (e.g., `pandas`, `openpyxl`, `matplotlib`) are installed before running the scripts.
-- File and folder selection dialogs require a graphical interface.
 
 ---
 
